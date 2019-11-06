@@ -16,6 +16,7 @@ A little text explaining my way of doing things.
 - Up
 - Down
 - Sideways
+- Upside down
 
 ## R Markdown
 
